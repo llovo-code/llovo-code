@@ -1,10 +1,10 @@
 
-<div align="start">
+<div align="center">
 <h1 align="center" style="border:none;padding-bottom:0;margin-bottom:0;" >
   
   **Desarrollador Full Stack** | 🌐 **Arquitectura de Software** | ☁️ **Cloud & DevOps**
   </h1 >
-
+<img  src ="https://github.com/user-attachments/assets/627698c8-6469-4442-a60e-838b9aa2060a" style="width:250px;heigh:250px;border-radius: 50%; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);" />
   <p  align="center" style="border:none;padding-bottom:0;margin-bottom:0" >
   💼 +4 años de experiencia | 🧠 Apasionado por la optimización, la innovación y el aprendizaje continuo</p>
 
@@ -12,6 +12,7 @@
 👋 ¡Hola! Soy Lewin Jose Lovo Izaguirre.
 <br>
 Full Stack con más de 4 años de experiencia creando, escalando y optimizando aplicaciones empresariales usando tecnologías modernas. Me especializo en microservicios, DevOps y soluciones tanto en el Frontend como en el Backend, priorizando la seguridad, eficiencia y escalabilidad.
+
 </div>
 
 <div align="center">
